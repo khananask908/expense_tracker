@@ -14,7 +14,7 @@ A fully-featured Expense-Tracker WebApp , built with the MERN stack.
 ### Installation
 1) Clone this repository  
 ```
-git clone https://github.com/ihtasham42/social-media-app.git
+git clone https://github.com/khananask908/expense_tracker.git
 ```
 2) Install dependencies  
 ```
